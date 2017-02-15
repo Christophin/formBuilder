@@ -1,3 +1,3 @@
-http://christophin.github.io/formBuilder
+https://christophin.github.io/formBuilder
 
-Used ajax and jquery to populate a form.
+Used ajax and jQuery to populate a form.
